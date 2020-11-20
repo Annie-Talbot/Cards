@@ -1,0 +1,16 @@
+initial hand 4 4 1 1
+discards a 4 to deck 2
+draws a 4 from deck 1
+hand is now 4 4 1 1
+discards a 4 to deck 2
+draws a 4 from deck 1
+hand is now 4 4 1 1
+discards a 4 to deck 2
+draws a 1 from deck 1
+hand is now 1 4 1 1
+discards a 4 to deck 2
+draws a 1 from deck 1
+hand is now 1 1 1 1
+player 3 has informed player 1 that they have won
+player 1 exiting game 
+final hand: 1 1 1 1

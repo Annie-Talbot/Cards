@@ -1,0 +1,16 @@
+initial hand 2 2 3 3
+discards a 2 to deck 4
+draws a 2 from deck 3
+hand is now 2 2 3 3
+discards a 2 to deck 4
+draws a 2 from deck 3
+hand is now 2 2 3 3
+discards a 2 to deck 4
+draws a 3 from deck 3
+hand is now 3 2 3 3
+discards a 2 to deck 4
+draws a 3 from deck 3
+hand is now 3 3 3 3
+player 1 has informed player 3 that they have won
+player 3 exiting game
+final hand: 3 3 3 3
